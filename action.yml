@@ -1,0 +1,5 @@
+name: "Dlint"
+description: "A tool for encouraging best coding practices and helping ensure we're writing secure Python code."
+runs:
+  using: "docker"
+  image: "Dockerfile"
