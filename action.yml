@@ -3,3 +3,6 @@ description: "A tool for encouraging best coding practices and helping ensure we
 runs:
   using: "docker"
   image: "Dockerfile"
+branding:
+  icon: "check"
+  color: "green"
