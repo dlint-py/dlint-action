@@ -13,9 +13,10 @@ None. The workflow will fail if any violations are found.
 ## Example usage
 
 ```
-on: [push]
+name: Dlint
+on: [push, pull_request]
 jobs:
-  dlint_job:
+  dlint:
     runs-on: ubuntu-latest
     name: Dlint
     steps:
