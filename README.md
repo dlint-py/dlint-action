@@ -21,5 +21,5 @@ jobs:
     name: Dlint
     steps:
     - uses: actions/checkout@master
-    - uses: mschwager/dlint-action@master
+    - uses: dlint-py/dlint-action@master
 ```
