@@ -1,6 +1,6 @@
 # Dlint Github Action
 
-This action runs [Dlint](https://github.com/duo-labs/dlint) against your repository.
+This action runs [Dlint](https://github.com/dlint-py/dlint) against your repository.
 
 ## Inputs
 
